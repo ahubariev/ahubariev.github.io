@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My Notes</title>
-    <link>https://ahubariev.github.io/</link>
-    <description>Recent content on My Notes</description>
+    <title>First on My Notes</title>
+    <link>https://ahubariev.github.io/tags/first/</link>
+    <description>Recent content in First on My Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2024</copyright>
-    <lastBuildDate>Thu, 22 Aug 2024 01:36:30 +0300</lastBuildDate><atom:link href="https://ahubariev.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Aug 2024 01:36:30 +0300</lastBuildDate><atom:link href="https://ahubariev.github.io/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Sixth Post</title>
       <link>https://ahubariev.github.io/posts/2024-08/my-sixth-post/</link>
