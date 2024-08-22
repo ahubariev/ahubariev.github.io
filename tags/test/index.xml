@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Test on My Notes</title>
+    <link>https://ahubariev.github.io/tags/test/</link>
+    <description>Recent content in Test on My Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024</copyright>
+    <lastBuildDate>Thu, 22 Aug 2024 12:35:45 +0300</lastBuildDate><atom:link href="https://ahubariev.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Sixth Post</title>
+      <link>https://ahubariev.github.io/posts/2024-08/my-sixth-post/</link>
+      <pubDate>Thu, 22 Aug 2024 12:35:45 +0300</pubDate>
+      
+      <guid>https://ahubariev.github.io/posts/2024-08/my-sixth-post/</guid>
+      <description>Desc Text. Put something here, or not.</description>
+      <content:encoded><![CDATA[<p>This is some content</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>My Fifth Post</title>
+      <link>https://ahubariev.github.io/posts/2024-08/my-fifth-post/</link>
+      <pubDate>Thu, 22 Aug 2024 12:35:38 +0300</pubDate>
+      
+      <guid>https://ahubariev.github.io/posts/2024-08/my-fifth-post/</guid>
+      <description>Desc Text. Put something here, or not.</description>
+      <content:encoded><![CDATA[<p>This is some content</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>My Fourth Post</title>
+      <link>https://ahubariev.github.io/posts/2024-08/my-fourth-post/</link>
+      <pubDate>Thu, 22 Aug 2024 12:35:34 +0300</pubDate>
+      
+      <guid>https://ahubariev.github.io/posts/2024-08/my-fourth-post/</guid>
+      <description>Desc Text. Put something here, or not.</description>
+      <content:encoded><![CDATA[<p>This is some content</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>My Third Post</title>
+      <link>https://ahubariev.github.io/posts/2024-08/my-third-post/</link>
+      <pubDate>Thu, 22 Aug 2024 12:35:30 +0300</pubDate>
+      
+      <guid>https://ahubariev.github.io/posts/2024-08/my-third-post/</guid>
+      <description>Desc Text. Put something here, or not.</description>
+      <content:encoded><![CDATA[<p>This is some content</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>https://ahubariev.github.io/posts/2024-08/my-second-post/</link>
+      <pubDate>Thu, 22 Aug 2024 12:35:22 +0300</pubDate>
+      
+      <guid>https://ahubariev.github.io/posts/2024-08/my-second-post/</guid>
+      <description>Desc Text. Put something here, or not.</description>
+      <content:encoded><![CDATA[<p>This is some content</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://ahubariev.github.io/posts/2024-08/my-first-post/</link>
+      <pubDate>Thu, 22 Aug 2024 12:35:12 +0300</pubDate>
+      
+      <guid>https://ahubariev.github.io/posts/2024-08/my-first-post/</guid>
+      <description>Desc Text. Put something here, or not.</description>
+      <content:encoded><![CDATA[<p>This is some content</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
